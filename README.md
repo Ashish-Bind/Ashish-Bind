@@ -4,15 +4,15 @@
 
 Exploring the realms of Development & DevOps, where I build scalable applications and streamline the path from code to deployment.
 
----
 
 ## 🛠️ Technologies & Tools
 
 - Javascript, Typescript, React JS, Node JS, Python, Django & Flask, REST API 
 - Docker, AWS, GCP, Kubernetes, Jenkins, Git, VS Code 
 
----
 🌱 I’m currently learning Python and DevOps
+📫 bindashish343@gmail.com
+🌐 [Portofolio](https://ashish-portfolio-next.vercel.app/)
 <!--
 **Ashish-Bind/Ashish-Bind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
